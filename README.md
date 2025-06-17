@@ -31,6 +31,8 @@ python
 
 ### 3. Uygulamayı Başlat
 ```bash
+git clone https://github.com/thousaba/Real-time-Chat-app.git
+cd chat_app
 python app.py
 ```
 
