@@ -24,14 +24,14 @@ pip install -r requirements.txt
 ### 2. Veritabanını Oluştur
 ```bash
 python
->>> from chat_cleaned import db
+>>> from chat_app import db
 >>> db.create_all()
 >>> exit()
 ```
 
 ### 3. Uygulamayı Başlat
 ```bash
-python chat_cleaned.py
+python app.py
 ```
 
 ## 🛠 Özellikler
